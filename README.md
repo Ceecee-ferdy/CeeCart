@@ -7,7 +7,7 @@ The project recreates the core shopping experience of a modern online store, inc
 
 ## 🚀 Live Demo
 
-🔗 https://ceecee-ferdy.github.io/CeeCart/
+🔗 https://ceecee-ferdy.github.io/ceecart/
 
 ---
 
